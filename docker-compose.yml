@@ -9,5 +9,5 @@ services:
     ports:
       - 5005:5005
     environment:
-      - PASSWORD=it@hbc2020
+      - PASSWORD=password
     restart: always
